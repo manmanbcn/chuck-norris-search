@@ -1,14 +1,13 @@
 .cardsList {
     margin: 0 auto 30px auto;
     max-width: 1920px;
-    min-width: 300px;
+    min-width: 270px;
     display: grid;
     grid-template-columns: repeat(6, 1fr); 
     gap: 20px;
 }
 
 .card {
-    padding: 20px;
     grid-column: span 2; 
     padding: 30px 30px 25px 30px;
     display: flex;
@@ -43,6 +42,6 @@
     .card,
     .first-row {
       grid-column: span 1; 
-      padding: 30px 30px 25px 30px;
+      padding: 10px 10px 10px 10px;
     }
   }

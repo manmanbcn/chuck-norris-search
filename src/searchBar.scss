@@ -37,12 +37,13 @@
     }
   }
 
-  @media (max-width: 530px) { 
+  @media (max-width: 500px) { 
     .search-outer {
-        max-width: 260px;
+        max-width: 230px;
     }
     .search-input {
-        max-width: 260px;
+        max-width: 210px;
+        padding: 10px 1px; 
     }
   }
 
