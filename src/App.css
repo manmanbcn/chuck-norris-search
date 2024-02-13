@@ -3,9 +3,11 @@
   text-align: center;
   display: flex;
   flex-direction: column;
-  background-color: white;
 }
 
+body {
+  background-color: white;
+}
 
 
 
